@@ -132,7 +132,8 @@ body {
 
     .apresentacao__conteudo {
         width: auto;
-        /* text-align: center; */
     }
-    
+
+    .apresentacao__imagem {
+        width: auto;
 }
